@@ -19,3 +19,4 @@ public class JTabbedText extends JFrame{
 		add(pane);
 	}
 }
+//hello,world
